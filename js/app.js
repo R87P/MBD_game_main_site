@@ -21,10 +21,10 @@ let isJumping = true
 // 5-9-2022 change Root to img folder and import custom images as sprites, use mario for time being to make app work 
 loadRoot('/img/')
 loadSprite('coin', 'coin.png')
-loadSprite('evil-shroom', 'evilShroom.png')
+loadSprite('evil-shroom', 'idle.png')
 loadSprite('brick', 'brick.png')
 loadSprite('block', 'block.png')
-loadSprite('mario', 'mario.png')
+loadSprite('mario', 'truck.png')
 loadSprite('mushroom', 'mushroom.png')
 loadSprite('surprise', 'surprise.png')
 loadSprite('unboxed', 'unboxed.png')
