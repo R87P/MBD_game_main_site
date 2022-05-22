@@ -20,11 +20,11 @@ let isJumping = true
 // game logic
 // 5-9-2022 change Root to img folder and import custom images as sprites, use mario for time being to make app work 
 loadRoot('/img/')
-loadSprite('coin', 'coin.png')
-loadSprite('evil-shroom', 'idle.png')
+loadSprite('coin', 'meat.png')
+loadSprite('evil-shroom', 'zomb.png')
 loadSprite('brick', 'brick.png')
 loadSprite('block', 'block.png')
-loadSprite('mario', 'truck.png')
+loadSprite('mario', 'monk.png')
 loadSprite('mushroom', 'mushroom.png')
 loadSprite('surprise', 'surprise.png')
 loadSprite('unboxed', 'unboxed.png')
